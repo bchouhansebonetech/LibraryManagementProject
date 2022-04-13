@@ -1,0 +1,8 @@
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject4\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject4\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject4\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject4\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject4\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject4\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject4\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject4\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
